@@ -1,4 +1,4 @@
-/*
+ /*
  * main.cpp
  *
  *  Created on: Apr 14, 2015
@@ -7,11 +7,11 @@
 
 using namespace std;
 
-#include "lodepng.h"
+#include "../Utils/PngUtil/lodepng.h"
 #include <iostream>
 
 #define PIXEL_SIZE 0.036
-#define ROBOT_RADIUS 0.45
+#define ROBOTl_RADIUS 0.45
 #define PAINT_RADIUS 13
 
 
